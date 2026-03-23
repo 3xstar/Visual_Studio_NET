@@ -1,0 +1,15 @@
+C:\C#_NET\oop\get_set\get_set\bin\Debug\net10.0\get_set.exe
+C:\C#_NET\oop\get_set\get_set\bin\Debug\net10.0\get_set.deps.json
+C:\C#_NET\oop\get_set\get_set\bin\Debug\net10.0\get_set.runtimeconfig.json
+C:\C#_NET\oop\get_set\get_set\bin\Debug\net10.0\get_set.dll
+C:\C#_NET\oop\get_set\get_set\bin\Debug\net10.0\get_set.pdb
+C:\C#_NET\oop\get_set\get_set\obj\Debug\net10.0\get_set.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#_NET\oop\get_set\get_set\obj\Debug\net10.0\get_set.AssemblyInfoInputs.cache
+C:\C#_NET\oop\get_set\get_set\obj\Debug\net10.0\get_set.AssemblyInfo.cs
+C:\C#_NET\oop\get_set\get_set\obj\Debug\net10.0\get_set.csproj.CoreCompileInputs.cache
+C:\C#_NET\oop\get_set\get_set\obj\Debug\net10.0\get_set.sourcelink.json
+C:\C#_NET\oop\get_set\get_set\obj\Debug\net10.0\get_set.dll
+C:\C#_NET\oop\get_set\get_set\obj\Debug\net10.0\refint\get_set.dll
+C:\C#_NET\oop\get_set\get_set\obj\Debug\net10.0\get_set.pdb
+C:\C#_NET\oop\get_set\get_set\obj\Debug\net10.0\get_set.genruntimeconfig.cache
+C:\C#_NET\oop\get_set\get_set\obj\Debug\net10.0\ref\get_set.dll

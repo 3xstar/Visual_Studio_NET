@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C#_NET\\oop\\get_set\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27EF8C96-8360-F7BE-ACD7-AC00B291258A}|get_set\\get_set.csproj|c:\\c#_net\\oop\\get_set\\get_set\\work_by_yourself.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EF8C96-8360-F7BE-ACD7-AC00B291258A}|get_set\\get_set.csproj|solutionrelative:get_set\\work_by_yourself.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EF8C96-8360-F7BE-ACD7-AC00B291258A}|get_set\\get_set.csproj|c:\\c#_net\\oop\\get_set\\get_set\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EF8C96-8360-F7BE-ACD7-AC00B291258A}|get_set\\get_set.csproj|solutionrelative:get_set\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EF8C96-8360-F7BE-ACD7-AC00B291258A}|get_set\\get_set.csproj|c:\\c#_net\\oop\\get_set\\get_set\\task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EF8C96-8360-F7BE-ACD7-AC00B291258A}|get_set\\get_set.csproj|solutionrelative:get_set\\task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EF8C96-8360-F7BE-ACD7-AC00B291258A}|get_set\\get_set.csproj|c:\\c#_net\\oop\\get_set\\get_set\\task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EF8C96-8360-F7BE-ACD7-AC00B291258A}|get_set\\get_set.csproj|solutionrelative:get_set\\task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "work_by_yourself.cs",
+              "DocumentMoniker": "C:\\C#_NET\\oop\\get_set\\get_set\\work_by_yourself.cs",
+              "RelativeDocumentMoniker": "get_set\\work_by_yourself.cs",
+              "ToolTip": "C:\\C#_NET\\oop\\get_set\\get_set\\work_by_yourself.cs*",
+              "RelativeToolTip": "get_set\\work_by_yourself.cs*",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowEQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T06:11:44.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "task2.cs",
+              "DocumentMoniker": "C:\\C#_NET\\oop\\get_set\\get_set\\task2.cs",
+              "RelativeDocumentMoniker": "get_set\\task2.cs",
+              "ToolTip": "C:\\C#_NET\\oop\\get_set\\get_set\\task2.cs",
+              "RelativeToolTip": "get_set\\task2.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T06:07:22.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "task1.cs",
+              "DocumentMoniker": "C:\\C#_NET\\oop\\get_set\\get_set\\task1.cs",
+              "RelativeDocumentMoniker": "get_set\\task1.cs",
+              "ToolTip": "C:\\C#_NET\\oop\\get_set\\get_set\\task1.cs",
+              "RelativeToolTip": "get_set\\task1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T05:22:13.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "base.cs",
+              "DocumentMoniker": "C:\\C#_NET\\oop\\get_set\\get_set\\base.cs",
+              "RelativeDocumentMoniker": "get_set\\base.cs",
+              "ToolTip": "C:\\C#_NET\\oop\\get_set\\get_set\\base.cs",
+              "RelativeToolTip": "get_set\\base.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T06:10:35.543Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

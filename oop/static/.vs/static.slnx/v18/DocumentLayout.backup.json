@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C#_NET\\oop\\static\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31C1EF31-A715-4229-BE15-CFA27CCCF13F}|static\\lesson2.csproj|c:\\c#_net\\oop\\static\\static\\task4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31C1EF31-A715-4229-BE15-CFA27CCCF13F}|static\\lesson2.csproj|solutionrelative:static\\task4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31C1EF31-A715-4229-BE15-CFA27CCCF13F}|static\\lesson2.csproj|c:\\c#_net\\oop\\static\\static\\task3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31C1EF31-A715-4229-BE15-CFA27CCCF13F}|static\\lesson2.csproj|solutionrelative:static\\task3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31C1EF31-A715-4229-BE15-CFA27CCCF13F}|static\\lesson2.csproj|c:\\c#_net\\oop\\static\\static\\task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31C1EF31-A715-4229-BE15-CFA27CCCF13F}|static\\lesson2.csproj|solutionrelative:static\\task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31C1EF31-A715-4229-BE15-CFA27CCCF13F}|static\\lesson2.csproj|c:\\c#_net\\oop\\static\\static\\task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31C1EF31-A715-4229-BE15-CFA27CCCF13F}|static\\lesson2.csproj|solutionrelative:static\\task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "task4.cs",
+              "DocumentMoniker": "C:\\C#_NET\\oop\\static\\static\\task4.cs",
+              "RelativeDocumentMoniker": "static\\task4.cs",
+              "ToolTip": "C:\\C#_NET\\oop\\static\\static\\task4.cs",
+              "RelativeToolTip": "static\\task4.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwA4AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T05:12:52.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "task3.cs",
+              "DocumentMoniker": "C:\\C#_NET\\oop\\static\\static\\task3.cs",
+              "RelativeDocumentMoniker": "static\\task3.cs",
+              "ToolTip": "C:\\C#_NET\\oop\\static\\static\\task3.cs",
+              "RelativeToolTip": "static\\task3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T05:00:37.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "task2.cs",
+              "DocumentMoniker": "C:\\C#_NET\\oop\\static\\static\\task2.cs",
+              "RelativeDocumentMoniker": "static\\task2.cs",
+              "ToolTip": "C:\\C#_NET\\oop\\static\\static\\task2.cs",
+              "RelativeToolTip": "static\\task2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T04:32:19.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "task1.cs",
+              "DocumentMoniker": "C:\\C#_NET\\oop\\static\\static\\task1.cs",
+              "RelativeDocumentMoniker": "static\\task1.cs",
+              "ToolTip": "C:\\C#_NET\\oop\\static\\static\\task1.cs",
+              "RelativeToolTip": "static\\task1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T04:16:50.793Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

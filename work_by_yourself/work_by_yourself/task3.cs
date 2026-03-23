@@ -43,7 +43,7 @@ namespace work_by_yourself
             Console.WriteLine("\n");
         }
 
-        static void Main(string[] args)
+        static void Main3(string[] args)
         {
             HashSet<string> Tags = new HashSet<string>();
 
