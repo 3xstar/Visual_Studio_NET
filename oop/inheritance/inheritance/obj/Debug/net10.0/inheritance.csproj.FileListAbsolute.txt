@@ -1,0 +1,15 @@
+C:\C#_NET\oop\inheritance\inheritance\bin\Debug\net10.0\inheritance.exe
+C:\C#_NET\oop\inheritance\inheritance\bin\Debug\net10.0\inheritance.deps.json
+C:\C#_NET\oop\inheritance\inheritance\bin\Debug\net10.0\inheritance.runtimeconfig.json
+C:\C#_NET\oop\inheritance\inheritance\bin\Debug\net10.0\inheritance.dll
+C:\C#_NET\oop\inheritance\inheritance\bin\Debug\net10.0\inheritance.pdb
+C:\C#_NET\oop\inheritance\inheritance\obj\Debug\net10.0\inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#_NET\oop\inheritance\inheritance\obj\Debug\net10.0\inheritance.AssemblyInfoInputs.cache
+C:\C#_NET\oop\inheritance\inheritance\obj\Debug\net10.0\inheritance.AssemblyInfo.cs
+C:\C#_NET\oop\inheritance\inheritance\obj\Debug\net10.0\inheritance.csproj.CoreCompileInputs.cache
+C:\C#_NET\oop\inheritance\inheritance\obj\Debug\net10.0\inheritance.sourcelink.json
+C:\C#_NET\oop\inheritance\inheritance\obj\Debug\net10.0\inheritance.dll
+C:\C#_NET\oop\inheritance\inheritance\obj\Debug\net10.0\refint\inheritance.dll
+C:\C#_NET\oop\inheritance\inheritance\obj\Debug\net10.0\inheritance.pdb
+C:\C#_NET\oop\inheritance\inheritance\obj\Debug\net10.0\inheritance.genruntimeconfig.cache
+C:\C#_NET\oop\inheritance\inheritance\obj\Debug\net10.0\ref\inheritance.dll
