@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\PizzaLend\PizzaLend\bin\Debug\net10.0-windows\PizzaLend.exe
+C:\Users\Admin\source\repos\PizzaLend\PizzaLend\bin\Debug\net10.0-windows\PizzaLend.deps.json
+C:\Users\Admin\source\repos\PizzaLend\PizzaLend\bin\Debug\net10.0-windows\PizzaLend.runtimeconfig.json
+C:\Users\Admin\source\repos\PizzaLend\PizzaLend\bin\Debug\net10.0-windows\PizzaLend.dll
+C:\Users\Admin\source\repos\PizzaLend\PizzaLend\bin\Debug\net10.0-windows\PizzaLend.pdb
+C:\Users\Admin\source\repos\PizzaLend\PizzaLend\obj\Debug\net10.0-windows\PizzaLend.PizzaTime.resources
+C:\Users\Admin\source\repos\PizzaLend\PizzaLend\obj\Debug\net10.0-windows\PizzaLend.Properties.Resources.resources
+C:\Users\Admin\source\repos\PizzaLend\PizzaLend\obj\Debug\net10.0-windows\PizzaLend.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\PizzaLend\PizzaLend\obj\Debug\net10.0-windows\PizzaLend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\PizzaLend\PizzaLend\obj\Debug\net10.0-windows\PizzaLend.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\PizzaLend\PizzaLend\obj\Debug\net10.0-windows\PizzaLend.AssemblyInfo.cs
+C:\Users\Admin\source\repos\PizzaLend\PizzaLend\obj\Debug\net10.0-windows\PizzaLend.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\PizzaLend\PizzaLend\obj\Debug\net10.0-windows\PizzaLend.dll
+C:\Users\Admin\source\repos\PizzaLend\PizzaLend\obj\Debug\net10.0-windows\refint\PizzaLend.dll
+C:\Users\Admin\source\repos\PizzaLend\PizzaLend\obj\Debug\net10.0-windows\PizzaLend.pdb
+C:\Users\Admin\source\repos\PizzaLend\PizzaLend\obj\Debug\net10.0-windows\PizzaLend.genruntimeconfig.cache
+C:\Users\Admin\source\repos\PizzaLend\PizzaLend\obj\Debug\net10.0-windows\ref\PizzaLend.dll

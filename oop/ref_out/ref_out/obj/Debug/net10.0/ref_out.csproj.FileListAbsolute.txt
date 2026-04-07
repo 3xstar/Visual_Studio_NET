@@ -1,0 +1,15 @@
+C:\C#_NET\oop\ref_out\ref_out\bin\Debug\net10.0\ref_out.exe
+C:\C#_NET\oop\ref_out\ref_out\bin\Debug\net10.0\ref_out.deps.json
+C:\C#_NET\oop\ref_out\ref_out\bin\Debug\net10.0\ref_out.runtimeconfig.json
+C:\C#_NET\oop\ref_out\ref_out\bin\Debug\net10.0\ref_out.dll
+C:\C#_NET\oop\ref_out\ref_out\bin\Debug\net10.0\ref_out.pdb
+C:\C#_NET\oop\ref_out\ref_out\obj\Debug\net10.0\ref_out.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#_NET\oop\ref_out\ref_out\obj\Debug\net10.0\ref_out.AssemblyInfoInputs.cache
+C:\C#_NET\oop\ref_out\ref_out\obj\Debug\net10.0\ref_out.AssemblyInfo.cs
+C:\C#_NET\oop\ref_out\ref_out\obj\Debug\net10.0\ref_out.csproj.CoreCompileInputs.cache
+C:\C#_NET\oop\ref_out\ref_out\obj\Debug\net10.0\ref_out.sourcelink.json
+C:\C#_NET\oop\ref_out\ref_out\obj\Debug\net10.0\ref_out.dll
+C:\C#_NET\oop\ref_out\ref_out\obj\Debug\net10.0\refint\ref_out.dll
+C:\C#_NET\oop\ref_out\ref_out\obj\Debug\net10.0\ref_out.pdb
+C:\C#_NET\oop\ref_out\ref_out\obj\Debug\net10.0\ref_out.genruntimeconfig.cache
+C:\C#_NET\oop\ref_out\ref_out\obj\Debug\net10.0\ref\ref_out.dll

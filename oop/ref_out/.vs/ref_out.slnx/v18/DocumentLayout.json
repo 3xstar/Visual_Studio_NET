@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C#_NET\\oop\\ref_out\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5033F198-677B-4658-AF51-BE9387AD277C}|ref_out\\ref_out.csproj|c:\\c#_net\\oop\\ref_out\\ref_out\\task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5033F198-677B-4658-AF51-BE9387AD277C}|ref_out\\ref_out.csproj|solutionrelative:ref_out\\task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5033F198-677B-4658-AF51-BE9387AD277C}|ref_out\\ref_out.csproj|c:\\c#_net\\oop\\ref_out\\ref_out\\task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5033F198-677B-4658-AF51-BE9387AD277C}|ref_out\\ref_out.csproj|solutionrelative:ref_out\\task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5033F198-677B-4658-AF51-BE9387AD277C}|ref_out\\ref_out.csproj|c:\\c#_net\\oop\\ref_out\\ref_out\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5033F198-677B-4658-AF51-BE9387AD277C}|ref_out\\ref_out.csproj|solutionrelative:ref_out\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "base.cs",
+              "DocumentMoniker": "C:\\C#_NET\\oop\\ref_out\\ref_out\\base.cs",
+              "RelativeDocumentMoniker": "ref_out\\base.cs",
+              "ToolTip": "C:\\C#_NET\\oop\\ref_out\\ref_out\\base.cs",
+              "RelativeToolTip": "ref_out\\base.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T08:05:34.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "task2.cs",
+              "DocumentMoniker": "C:\\C#_NET\\oop\\ref_out\\ref_out\\task2.cs",
+              "RelativeDocumentMoniker": "ref_out\\task2.cs",
+              "ToolTip": "C:\\C#_NET\\oop\\ref_out\\ref_out\\task2.cs",
+              "RelativeToolTip": "ref_out\\task2.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwBEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T08:00:14.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "task1.cs",
+              "DocumentMoniker": "C:\\C#_NET\\oop\\ref_out\\ref_out\\task1.cs",
+              "RelativeDocumentMoniker": "ref_out\\task1.cs",
+              "ToolTip": "C:\\C#_NET\\oop\\ref_out\\ref_out\\task1.cs",
+              "RelativeToolTip": "ref_out\\task1.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T08:00:10.297Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

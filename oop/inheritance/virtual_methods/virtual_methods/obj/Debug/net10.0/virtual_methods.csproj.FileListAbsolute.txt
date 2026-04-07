@@ -1,0 +1,15 @@
+C:\C#_NET\oop\inheritance\virtual_methods\virtual_methods\bin\Debug\net10.0\virtual_methods.exe
+C:\C#_NET\oop\inheritance\virtual_methods\virtual_methods\bin\Debug\net10.0\virtual_methods.deps.json
+C:\C#_NET\oop\inheritance\virtual_methods\virtual_methods\bin\Debug\net10.0\virtual_methods.runtimeconfig.json
+C:\C#_NET\oop\inheritance\virtual_methods\virtual_methods\bin\Debug\net10.0\virtual_methods.dll
+C:\C#_NET\oop\inheritance\virtual_methods\virtual_methods\bin\Debug\net10.0\virtual_methods.pdb
+C:\C#_NET\oop\inheritance\virtual_methods\virtual_methods\obj\Debug\net10.0\virtual_methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#_NET\oop\inheritance\virtual_methods\virtual_methods\obj\Debug\net10.0\virtual_methods.AssemblyInfoInputs.cache
+C:\C#_NET\oop\inheritance\virtual_methods\virtual_methods\obj\Debug\net10.0\virtual_methods.AssemblyInfo.cs
+C:\C#_NET\oop\inheritance\virtual_methods\virtual_methods\obj\Debug\net10.0\virtual_methods.csproj.CoreCompileInputs.cache
+C:\C#_NET\oop\inheritance\virtual_methods\virtual_methods\obj\Debug\net10.0\virtual_methods.sourcelink.json
+C:\C#_NET\oop\inheritance\virtual_methods\virtual_methods\obj\Debug\net10.0\virtual_methods.dll
+C:\C#_NET\oop\inheritance\virtual_methods\virtual_methods\obj\Debug\net10.0\refint\virtual_methods.dll
+C:\C#_NET\oop\inheritance\virtual_methods\virtual_methods\obj\Debug\net10.0\virtual_methods.pdb
+C:\C#_NET\oop\inheritance\virtual_methods\virtual_methods\obj\Debug\net10.0\virtual_methods.genruntimeconfig.cache
+C:\C#_NET\oop\inheritance\virtual_methods\virtual_methods\obj\Debug\net10.0\ref\virtual_methods.dll
