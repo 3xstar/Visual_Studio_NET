@@ -1,0 +1,15 @@
+C:\C#_NET\oop\abstract\abstract\bin\Debug\net10.0\abstracts.exe
+C:\C#_NET\oop\abstract\abstract\bin\Debug\net10.0\abstracts.deps.json
+C:\C#_NET\oop\abstract\abstract\bin\Debug\net10.0\abstracts.runtimeconfig.json
+C:\C#_NET\oop\abstract\abstract\bin\Debug\net10.0\abstracts.dll
+C:\C#_NET\oop\abstract\abstract\bin\Debug\net10.0\abstracts.pdb
+C:\C#_NET\oop\abstract\abstract\obj\Debug\net10.0\abstracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#_NET\oop\abstract\abstract\obj\Debug\net10.0\abstracts.AssemblyInfoInputs.cache
+C:\C#_NET\oop\abstract\abstract\obj\Debug\net10.0\abstracts.AssemblyInfo.cs
+C:\C#_NET\oop\abstract\abstract\obj\Debug\net10.0\abstracts.csproj.CoreCompileInputs.cache
+C:\C#_NET\oop\abstract\abstract\obj\Debug\net10.0\abstracts.sourcelink.json
+C:\C#_NET\oop\abstract\abstract\obj\Debug\net10.0\abstracts.dll
+C:\C#_NET\oop\abstract\abstract\obj\Debug\net10.0\refint\abstracts.dll
+C:\C#_NET\oop\abstract\abstract\obj\Debug\net10.0\abstracts.pdb
+C:\C#_NET\oop\abstract\abstract\obj\Debug\net10.0\abstracts.genruntimeconfig.cache
+C:\C#_NET\oop\abstract\abstract\obj\Debug\net10.0\ref\abstracts.dll

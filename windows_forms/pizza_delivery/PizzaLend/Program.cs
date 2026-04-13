@@ -14,4 +14,9 @@ namespace PizzaLend
             Application.Run(new PizzaTime());
         }
     }
+
+    static class Variables
+    {
+        static public string filePath = @"users.db";
+    }
 }
