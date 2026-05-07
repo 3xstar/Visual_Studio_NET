@@ -53,16 +53,16 @@
             tabOrder = new TabPage();
             splitContainer1 = new SplitContainer();
             tableLayoutPanel2 = new TableLayoutPanel();
-            btnAdd = new Button();
             label15 = new Label();
             label14 = new Label();
             label13 = new Label();
             label12 = new Label();
-            comboBox1 = new ComboBox();
-            numericUpDown1 = new NumericUpDown();
+            comboBoxPizzas = new ComboBox();
+            numericUpDownCount = new NumericUpDown();
             btnOrder = new Button();
             comboBoxOrder = new ComboBox();
             ListBoxAddities = new CheckedListBox();
+            btnAdd = new Button();
             tableLayoutPanel1 = new TableLayoutPanel();
             panel4 = new Panel();
             label10 = new Label();
@@ -110,7 +110,7 @@
             tBxDateMonth = new TextBox();
             tBxCardNumber = new TextBox();
             radioButtonCard = new RadioButton();
-            button1 = new Button();
+            btnOrderPay = new Button();
             tabControl.SuspendLayout();
             tabLogin.SuspendLayout();
             groupBoxLogin.SuspendLayout();
@@ -124,7 +124,7 @@
             splitContainer1.Panel2.SuspendLayout();
             splitContainer1.SuspendLayout();
             tableLayoutPanel2.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)numericUpDown1).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)numericUpDownCount).BeginInit();
             tableLayoutPanel1.SuspendLayout();
             panel4.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)pictureBox4).BeginInit();
@@ -230,6 +230,7 @@
             btnLogin.TabIndex = 2;
             btnLogin.Text = "LOG IN";
             btnLogin.UseVisualStyleBackColor = false;
+            btnLogin.Click += btnLogin_Click;
             // 
             // label2
             // 
@@ -477,16 +478,16 @@
             tableLayoutPanel2.BackColor = Color.FromArgb(255, 192, 128);
             tableLayoutPanel2.ColumnCount = 1;
             tableLayoutPanel2.ColumnStyles.Add(new ColumnStyle(SizeType.Percent, 100F));
-            tableLayoutPanel2.Controls.Add(btnAdd, 0, 8);
             tableLayoutPanel2.Controls.Add(label15, 0, 6);
             tableLayoutPanel2.Controls.Add(label14, 0, 4);
             tableLayoutPanel2.Controls.Add(label13, 0, 2);
             tableLayoutPanel2.Controls.Add(label12, 0, 0);
-            tableLayoutPanel2.Controls.Add(comboBox1, 0, 1);
-            tableLayoutPanel2.Controls.Add(numericUpDown1, 0, 3);
+            tableLayoutPanel2.Controls.Add(comboBoxPizzas, 0, 1);
+            tableLayoutPanel2.Controls.Add(numericUpDownCount, 0, 3);
             tableLayoutPanel2.Controls.Add(btnOrder, 0, 9);
             tableLayoutPanel2.Controls.Add(comboBoxOrder, 0, 7);
             tableLayoutPanel2.Controls.Add(ListBoxAddities, 0, 5);
+            tableLayoutPanel2.Controls.Add(btnAdd, 0, 8);
             tableLayoutPanel2.Dock = DockStyle.Fill;
             tableLayoutPanel2.Location = new Point(0, 0);
             tableLayoutPanel2.Name = "tableLayoutPanel2";
@@ -505,18 +506,6 @@
             tableLayoutPanel2.RowStyles.Add(new RowStyle(SizeType.Absolute, 20F));
             tableLayoutPanel2.Size = new Size(300, 580);
             tableLayoutPanel2.TabIndex = 0;
-            // 
-            // btnAdd
-            // 
-            btnAdd.BackColor = Color.Crimson;
-            btnAdd.Font = new Font("Segoe UI", 15F, FontStyle.Bold);
-            btnAdd.ForeColor = Color.White;
-            btnAdd.Location = new Point(13, 461);
-            btnAdd.Name = "btnAdd";
-            btnAdd.Size = new Size(274, 50);
-            btnAdd.TabIndex = 15;
-            btnAdd.Text = "Add pizza";
-            btnAdd.UseVisualStyleBackColor = false;
             // 
             // label15
             // 
@@ -566,24 +555,24 @@
             label12.TabIndex = 0;
             label12.Text = "Type of pizza";
             // 
-            // comboBox1
+            // comboBoxPizzas
             // 
-            comboBox1.FormattingEnabled = true;
-            comboBox1.Items.AddRange(new object[] { "Peperoni", "Margarita", "Carbonara", "Barbeque", "Cheese pizza" });
-            comboBox1.Location = new Point(13, 69);
-            comboBox1.Name = "comboBox1";
-            comboBox1.Size = new Size(134, 23);
-            comboBox1.TabIndex = 1;
+            comboBoxPizzas.FormattingEnabled = true;
+            comboBoxPizzas.Items.AddRange(new object[] { "Peperoni", "Margarita", "Carbonara", "Barbeque", "Cheese pizza" });
+            comboBoxPizzas.Location = new Point(13, 69);
+            comboBoxPizzas.Name = "comboBoxPizzas";
+            comboBoxPizzas.Size = new Size(134, 23);
+            comboBoxPizzas.TabIndex = 1;
             // 
-            // numericUpDown1
+            // numericUpDownCount
             // 
-            numericUpDown1.Location = new Point(13, 181);
-            numericUpDown1.Maximum = new decimal(new int[] { 10, 0, 0, 0 });
-            numericUpDown1.Minimum = new decimal(new int[] { 1, 0, 0, 0 });
-            numericUpDown1.Name = "numericUpDown1";
-            numericUpDown1.Size = new Size(120, 23);
-            numericUpDown1.TabIndex = 3;
-            numericUpDown1.Value = new decimal(new int[] { 1, 0, 0, 0 });
+            numericUpDownCount.Location = new Point(13, 181);
+            numericUpDownCount.Maximum = new decimal(new int[] { 10, 0, 0, 0 });
+            numericUpDownCount.Minimum = new decimal(new int[] { 1, 0, 0, 0 });
+            numericUpDownCount.Name = "numericUpDownCount";
+            numericUpDownCount.Size = new Size(120, 23);
+            numericUpDownCount.TabIndex = 3;
+            numericUpDownCount.Value = new decimal(new int[] { 1, 0, 0, 0 });
             // 
             // btnOrder
             // 
@@ -613,6 +602,19 @@
             ListBoxAddities.Name = "ListBoxAddities";
             ListBoxAddities.Size = new Size(120, 40);
             ListBoxAddities.TabIndex = 16;
+            // 
+            // btnAdd
+            // 
+            btnAdd.BackColor = Color.Crimson;
+            btnAdd.Font = new Font("Segoe UI", 15F, FontStyle.Bold);
+            btnAdd.ForeColor = Color.White;
+            btnAdd.Location = new Point(13, 461);
+            btnAdd.Name = "btnAdd";
+            btnAdd.Size = new Size(274, 50);
+            btnAdd.TabIndex = 15;
+            btnAdd.Text = "Add pizza";
+            btnAdd.UseVisualStyleBackColor = false;
+            btnAdd.Click += btnAdd_Click;
             // 
             // tableLayoutPanel1
             // 
@@ -898,7 +900,7 @@
             // 
             flowLayoutPanel1.Controls.Add(groupBoxDeliveryInfo);
             flowLayoutPanel1.Controls.Add(groupBoxPaymentInfo);
-            flowLayoutPanel1.Controls.Add(button1);
+            flowLayoutPanel1.Controls.Add(btnOrderPay);
             flowLayoutPanel1.FlowDirection = FlowDirection.TopDown;
             flowLayoutPanel1.Location = new Point(0, 0);
             flowLayoutPanel1.Name = "flowLayoutPanel1";
@@ -1070,6 +1072,7 @@
             radioButtonCash.TabStop = true;
             radioButtonCash.Text = "Cash\r\n";
             radioButtonCash.UseVisualStyleBackColor = true;
+            radioButtonCash.CheckedChanged += radioButtonCard_CheckedChanged_1;
             // 
             // groupBox1
             // 
@@ -1157,16 +1160,18 @@
             radioButtonCard.TabStop = true;
             radioButtonCard.Text = "Card";
             radioButtonCard.UseVisualStyleBackColor = true;
+            radioButtonCard.CheckedChanged += radioButtonCard_CheckedChanged_1;
             // 
-            // button1
+            // btnOrderPay
             // 
-            button1.Font = new Font("Segoe UI", 20F, FontStyle.Bold);
-            button1.Location = new Point(53, 477);
-            button1.Name = "button1";
-            button1.Size = new Size(146, 45);
-            button1.TabIndex = 2;
-            button1.Text = "ORDER";
-            button1.UseVisualStyleBackColor = true;
+            btnOrderPay.Font = new Font("Segoe UI", 20F, FontStyle.Bold);
+            btnOrderPay.Location = new Point(53, 477);
+            btnOrderPay.Name = "btnOrderPay";
+            btnOrderPay.Size = new Size(146, 45);
+            btnOrderPay.TabIndex = 2;
+            btnOrderPay.Text = "ORDER";
+            btnOrderPay.UseVisualStyleBackColor = true;
+            btnOrderPay.Click += btnOrderPay_Click;
             // 
             // PizzaTime
             // 
@@ -1196,7 +1201,7 @@
             splitContainer1.ResumeLayout(false);
             tableLayoutPanel2.ResumeLayout(false);
             tableLayoutPanel2.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)numericUpDown1).EndInit();
+            ((System.ComponentModel.ISupportInitialize)numericUpDownCount).EndInit();
             tableLayoutPanel1.ResumeLayout(false);
             panel4.ResumeLayout(false);
             panel4.PerformLayout();
@@ -1256,8 +1261,8 @@
         private PictureBox pictureBox1;
         private TableLayoutPanel tableLayoutPanel2;
         private Label label12;
-        private ComboBox comboBox1;
-        private NumericUpDown numericUpDown1;
+        private ComboBox comboBoxPizzas;
+        private NumericUpDown numericUpDownCount;
         private Panel panel4;
         private Label label10;
         private Label label11;
@@ -1270,7 +1275,7 @@
         private Label label13;
         private CheckedListBox checkedListBox1;
         private ComboBox comboBox2;
-        private Button button1;
+        private Button btnOrderPay;
         private Button btnOrder;
         private Button btnAdd;
         private Label label15;

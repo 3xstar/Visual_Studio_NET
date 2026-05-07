@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "3SmdRd9GO2g=",
+  "success": true,
+  "projectFilePath": "C:\\C#_NET\\windows_forms\\journal\\journal\\journal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tmrni\\.nuget\\packages\\htmlagilitypack\\1.12.4\\htmlagilitypack.1.12.4.nupkg.sha512",
+    "C:\\Users\\tmrni\\.nuget\\packages\\selenium.webdriver\\4.43.0\\selenium.webdriver.4.43.0.nupkg.sha512",
+    "C:\\Users\\tmrni\\.nuget\\packages\\selenium.webdriver.chromedriver\\147.0.7727.5700\\selenium.webdriver.chromedriver.147.0.7727.5700.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\C#_NET\oop\abstracts2\abstracts2\bin\Debug\net10.0\abstracts2.exe
+C:\C#_NET\oop\abstracts2\abstracts2\bin\Debug\net10.0\abstracts2.deps.json
+C:\C#_NET\oop\abstracts2\abstracts2\bin\Debug\net10.0\abstracts2.runtimeconfig.json
+C:\C#_NET\oop\abstracts2\abstracts2\bin\Debug\net10.0\abstracts2.dll
+C:\C#_NET\oop\abstracts2\abstracts2\bin\Debug\net10.0\abstracts2.pdb
+C:\C#_NET\oop\abstracts2\abstracts2\obj\Debug\net10.0\abstracts2.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#_NET\oop\abstracts2\abstracts2\obj\Debug\net10.0\abstracts2.AssemblyInfoInputs.cache
+C:\C#_NET\oop\abstracts2\abstracts2\obj\Debug\net10.0\abstracts2.AssemblyInfo.cs
+C:\C#_NET\oop\abstracts2\abstracts2\obj\Debug\net10.0\abstracts2.csproj.CoreCompileInputs.cache
+C:\C#_NET\oop\abstracts2\abstracts2\obj\Debug\net10.0\abstracts2.sourcelink.json
+C:\C#_NET\oop\abstracts2\abstracts2\obj\Debug\net10.0\abstracts2.dll
+C:\C#_NET\oop\abstracts2\abstracts2\obj\Debug\net10.0\refint\abstracts2.dll
+C:\C#_NET\oop\abstracts2\abstracts2\obj\Debug\net10.0\abstracts2.pdb
+C:\C#_NET\oop\abstracts2\abstracts2\obj\Debug\net10.0\abstracts2.genruntimeconfig.cache
+C:\C#_NET\oop\abstracts2\abstracts2\obj\Debug\net10.0\ref\abstracts2.dll

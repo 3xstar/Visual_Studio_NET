@@ -1,0 +1,15 @@
+C:\C#_NET\oop\interfaces\interfaces\bin\Debug\net10.0\interfaces.exe
+C:\C#_NET\oop\interfaces\interfaces\bin\Debug\net10.0\interfaces.deps.json
+C:\C#_NET\oop\interfaces\interfaces\bin\Debug\net10.0\interfaces.runtimeconfig.json
+C:\C#_NET\oop\interfaces\interfaces\bin\Debug\net10.0\interfaces.dll
+C:\C#_NET\oop\interfaces\interfaces\bin\Debug\net10.0\interfaces.pdb
+C:\C#_NET\oop\interfaces\interfaces\obj\Debug\net10.0\interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#_NET\oop\interfaces\interfaces\obj\Debug\net10.0\interfaces.AssemblyInfoInputs.cache
+C:\C#_NET\oop\interfaces\interfaces\obj\Debug\net10.0\interfaces.AssemblyInfo.cs
+C:\C#_NET\oop\interfaces\interfaces\obj\Debug\net10.0\interfaces.csproj.CoreCompileInputs.cache
+C:\C#_NET\oop\interfaces\interfaces\obj\Debug\net10.0\interfaces.sourcelink.json
+C:\C#_NET\oop\interfaces\interfaces\obj\Debug\net10.0\interfaces.dll
+C:\C#_NET\oop\interfaces\interfaces\obj\Debug\net10.0\refint\interfaces.dll
+C:\C#_NET\oop\interfaces\interfaces\obj\Debug\net10.0\interfaces.pdb
+C:\C#_NET\oop\interfaces\interfaces\obj\Debug\net10.0\interfaces.genruntimeconfig.cache
+C:\C#_NET\oop\interfaces\interfaces\obj\Debug\net10.0\ref\interfaces.dll
