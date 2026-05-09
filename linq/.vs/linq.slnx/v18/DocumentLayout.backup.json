@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\C#_NET\\linq\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FC3C8026-6EEA-4158-BA89-20E17F750E01}|linq\\linq.csproj|c:\\c#_net\\linq\\linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC3C8026-6EEA-4158-BA89-20E17F750E01}|linq\\linq.csproj|solutionrelative:linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FC3C8026-6EEA-4158-BA89-20E17F750E01}|linq\\linq.csproj|c:\\c#_net\\linq\\linq\\base2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC3C8026-6EEA-4158-BA89-20E17F750E01}|linq\\linq.csproj|solutionrelative:linq\\base2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC3C8026-6EEA-4158-BA89-20E17F750E01}|linq\\linq.csproj|c:\\c#_net\\linq\\linq\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC3C8026-6EEA-4158-BA89-20E17F750E01}|linq\\linq.csproj|solutionrelative:linq\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,12 +33,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\C#_NET\\linq\\linq\\Program.cs",
-              "RelativeDocumentMoniker": "linq\\Program.cs",
-              "ToolTip": "C:\\C#_NET\\linq\\linq\\Program.cs",
-              "RelativeToolTip": "linq\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAANAAAAAAAAAA==",
+              "Title": "base2.cs",
+              "DocumentMoniker": "C:\\C#_NET\\linq\\linq\\base2.cs",
+              "RelativeDocumentMoniker": "linq\\base2.cs",
+              "ToolTip": "C:\\C#_NET\\linq\\linq\\base2.cs",
+              "RelativeToolTip": "linq\\base2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T06:12:31.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "base.cs",
+              "DocumentMoniker": "C:\\C#_NET\\linq\\linq\\base.cs",
+              "RelativeDocumentMoniker": "linq\\base.cs",
+              "ToolTip": "C:\\C#_NET\\linq\\linq\\base.cs",
+              "RelativeToolTip": "linq\\base.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-06T05:35:36.541Z",
               "EditorCaption": ""

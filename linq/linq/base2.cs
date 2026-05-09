@@ -6,7 +6,7 @@ namespace linq
 {
     internal class base2
     {
-        static void Main(string[] args)
+        static void Main2(string[] args)
         {
             int[] numbers = new int[] { 1, 2, 3, 4, 5 };
 

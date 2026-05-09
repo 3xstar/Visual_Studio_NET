@@ -26,8 +26,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -63,8 +67,7 @@
               "RelativeToolTip": "hw2\\task6.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAowAgAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-24T16:15:26.107Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-24T16:15:26.107Z"
             },
             {
               "$type": "Document",
@@ -76,8 +79,7 @@
               "RelativeToolTip": "hw2\\task5.cs",
               "ViewState": "AgIAACYAAAAAAAAAAAAIwBAAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-24T16:15:20.742Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-24T16:15:20.742Z"
             }
           ]
         }

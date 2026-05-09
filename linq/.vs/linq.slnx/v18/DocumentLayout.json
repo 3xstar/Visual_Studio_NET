@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\C#_NET\\linq\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FC3C8026-6EEA-4158-BA89-20E17F750E01}|linq\\linq.csproj|c:\\c#_net\\linq\\linq\\base2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC3C8026-6EEA-4158-BA89-20E17F750E01}|linq\\linq.csproj|solutionrelative:linq\\base2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F9F3CF00-D3B1-BEC8-FB7E-1C5A0D628C52}|linq\\linq.csproj|c:\\c#_net\\linq\\linq\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F3CF00-D3B1-BEC8-FB7E-1C5A0D628C52}|linq\\linq.csproj|solutionrelative:linq\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC3C8026-6EEA-4158-BA89-20E17F750E01}|linq\\linq.csproj|c:\\c#_net\\linq\\linq\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC3C8026-6EEA-4158-BA89-20E17F750E01}|linq\\linq.csproj|solutionrelative:linq\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F9F3CF00-D3B1-BEC8-FB7E-1C5A0D628C52}|linq\\linq.csproj|c:\\c#_net\\linq\\linq\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F3CF00-D3B1-BEC8-FB7E-1C5A0D628C52}|linq\\linq.csproj|solutionrelative:linq\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F3CF00-D3B1-BEC8-FB7E-1C5A0D628C52}|linq\\linq.csproj|c:\\c#_net\\linq\\linq\\base2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F3CF00-D3B1-BEC8-FB7E-1C5A0D628C52}|linq\\linq.csproj|solutionrelative:linq\\base2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,7 +21,7 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 312,
+          "DockedWidth": 192,
           "SelectedChildIndex": -1,
           "Children": [
             {
@@ -27,20 +31,20 @@
           ]
         },
         {
-          "DockedWidth": 73,
+          "DockedWidth": 139,
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "base2.cs",
-              "DocumentMoniker": "C:\\C#_NET\\linq\\linq\\base2.cs",
-              "RelativeDocumentMoniker": "linq\\base2.cs",
-              "ToolTip": "C:\\C#_NET\\linq\\linq\\base2.cs",
-              "RelativeToolTip": "linq\\base2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABHAAAAAAAAAA==",
+              "Title": "task.cs",
+              "DocumentMoniker": "C:\\C#_NET\\linq\\linq\\task.cs",
+              "RelativeDocumentMoniker": "linq\\task.cs",
+              "ToolTip": "C:\\C#_NET\\linq\\linq\\task.cs",
+              "RelativeToolTip": "linq\\task.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACMAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T06:12:31.606Z",
+              "WhenOpened": "2026-05-07T08:01:33.41Z",
               "EditorCaption": ""
             },
             {
@@ -51,9 +55,22 @@
               "RelativeDocumentMoniker": "linq\\base.cs",
               "ToolTip": "C:\\C#_NET\\linq\\linq\\base.cs",
               "RelativeToolTip": "linq\\base.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T05:35:36.541Z",
+              "WhenOpened": "2026-05-07T08:01:13.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "base2.cs",
+              "DocumentMoniker": "C:\\C#_NET\\linq\\linq\\base2.cs",
+              "RelativeDocumentMoniker": "linq\\base2.cs",
+              "ToolTip": "C:\\C#_NET\\linq\\linq\\base2.cs",
+              "RelativeToolTip": "linq\\base2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T07:47:49.267Z",
               "EditorCaption": ""
             }
           ]
