@@ -1,0 +1,15 @@
+C:\C#_NET\homework\hw6\hw6\bin\Debug\net10.0\hw6.exe
+C:\C#_NET\homework\hw6\hw6\bin\Debug\net10.0\hw6.deps.json
+C:\C#_NET\homework\hw6\hw6\bin\Debug\net10.0\hw6.runtimeconfig.json
+C:\C#_NET\homework\hw6\hw6\bin\Debug\net10.0\hw6.dll
+C:\C#_NET\homework\hw6\hw6\bin\Debug\net10.0\hw6.pdb
+C:\C#_NET\homework\hw6\hw6\obj\Debug\net10.0\hw6.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#_NET\homework\hw6\hw6\obj\Debug\net10.0\hw6.AssemblyInfoInputs.cache
+C:\C#_NET\homework\hw6\hw6\obj\Debug\net10.0\hw6.AssemblyInfo.cs
+C:\C#_NET\homework\hw6\hw6\obj\Debug\net10.0\hw6.csproj.CoreCompileInputs.cache
+C:\C#_NET\homework\hw6\hw6\obj\Debug\net10.0\hw6.sourcelink.json
+C:\C#_NET\homework\hw6\hw6\obj\Debug\net10.0\hw6.dll
+C:\C#_NET\homework\hw6\hw6\obj\Debug\net10.0\refint\hw6.dll
+C:\C#_NET\homework\hw6\hw6\obj\Debug\net10.0\hw6.pdb
+C:\C#_NET\homework\hw6\hw6\obj\Debug\net10.0\hw6.genruntimeconfig.cache
+C:\C#_NET\homework\hw6\hw6\obj\Debug\net10.0\ref\hw6.dll

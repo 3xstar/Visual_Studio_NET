@@ -1,0 +1,15 @@
+C:\C#_NET\homework\hw7\hw7\bin\Debug\net10.0\hw7.exe
+C:\C#_NET\homework\hw7\hw7\bin\Debug\net10.0\hw7.deps.json
+C:\C#_NET\homework\hw7\hw7\bin\Debug\net10.0\hw7.runtimeconfig.json
+C:\C#_NET\homework\hw7\hw7\bin\Debug\net10.0\hw7.dll
+C:\C#_NET\homework\hw7\hw7\bin\Debug\net10.0\hw7.pdb
+C:\C#_NET\homework\hw7\hw7\obj\Debug\net10.0\hw7.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#_NET\homework\hw7\hw7\obj\Debug\net10.0\hw7.AssemblyInfoInputs.cache
+C:\C#_NET\homework\hw7\hw7\obj\Debug\net10.0\hw7.AssemblyInfo.cs
+C:\C#_NET\homework\hw7\hw7\obj\Debug\net10.0\hw7.csproj.CoreCompileInputs.cache
+C:\C#_NET\homework\hw7\hw7\obj\Debug\net10.0\hw7.sourcelink.json
+C:\C#_NET\homework\hw7\hw7\obj\Debug\net10.0\hw7.dll
+C:\C#_NET\homework\hw7\hw7\obj\Debug\net10.0\refint\hw7.dll
+C:\C#_NET\homework\hw7\hw7\obj\Debug\net10.0\hw7.pdb
+C:\C#_NET\homework\hw7\hw7\obj\Debug\net10.0\hw7.genruntimeconfig.cache
+C:\C#_NET\homework\hw7\hw7\obj\Debug\net10.0\ref\hw7.dll
